@@ -1,6 +1,6 @@
-# háttér
+# Lumora
 
-Reszponzív, magyar nyelvű háttérkép-galéria. Nincs szükség buildre vagy API-kulcsra: az `index.html` közvetlenül megnyitható böngészőben. A válogatott fotók az Unsplashről, a szabadon kereshető nagy felbontású képek pedig a Wikimedia Commons nyilvános API-ján keresztül töltődnek be, ezért internetkapcsolat szükséges.
+Reszponzív, magyar nyelvű háttérkép-galéria Lumora néven. Nincs szükség buildre vagy API-kulcsra: az `index.html` közvetlenül megnyitható böngészőben. A válogatott fotók az Unsplashről, a szabadon kereshető nagy felbontású képek pedig a Wikimedia Commons nyilvános API-ján keresztül töltődnek be, ezért internetkapcsolat szükséges.
 
 ## GitHub Pages publikálás
 
