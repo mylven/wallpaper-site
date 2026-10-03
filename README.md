@@ -1,6 +1,6 @@
 # Lumora
 
-Reszponzív, magyar nyelvű háttérkép-galéria Lumora néven. Nincs szükség buildre vagy API-kulcsra: az `index.html` közvetlenül megnyitható böngészőben. A válogatott fotók az Unsplashről, a szabadon kereshető nagy felbontású képek pedig a Wikimedia Commons nyilvános API-ján keresztül töltődnek be, ezért internetkapcsolat szükséges.
+Reszponzív, magyar nyelvű háttérkép-galéria Lumora néven. Nincs szükség buildre vagy API-kulcsra: az `index.html` közvetlenül megnyitható böngészőben. A nyílt licencű képeket az Openverse nyilvános keresője gyűjti össze több tucat forrásból, köztük a Flickr, a Wikimedia Commons és múzeumi gyűjtemények kínálatából. A kiemelt fotók az Unsplashről származnak. Az internetkapcsolat szükséges.
 
 ## GitHub Pages publikálás
 
@@ -11,9 +11,9 @@ Reszponzív, magyar nyelvű háttérkép-galéria Lumora néven. Nincs szükség
 
 ## Keresés és képlicencek
 
-Írj be bármilyen témát a keresőmezőbe, vagy válassz egy népszerű keresést. A keresés a Wikimedia Commons nagyméretű, folyamatosan bővülő fotóarchívumából kér le további nagy felbontású képeket, lapozható találatokkal. Néhány gyakori magyar kifejezés automatikusan angol keresőkifejezésre fordul, mivel az archívum fájlleírásainak többsége angol nyelvű. Internetkapcsolat szükséges.
+Írj be bármilyen témát a keresőmezőbe, válassz kategóriát vagy próbálj ki egy népszerű keresést. A képarány (fekvő, álló, négyzet), a képforrás és a rendezés is szűrhető. A kereső oldalanként 20 képet tölt be, és további oldalakon lapozható. Néhány gyakori magyar kifejezés automatikusan angol keresőkifejezésre fordul.
 
-A képek különböző szabad licencekkel érhetők el. Az előnézet az egyes képeknél feltünteti az alkotót, a Wikimedia Commons fájloldalát és az adott kép licencét. A nagy felbontású eredeti képet az **Eredeti kép** hivatkozás nyitja meg.
+A keresés az Openverse API-t használja, amely nyíltan licencelt, többek között Creative Commons és közkincs képeket indexel különböző forrásokból. A képek licence és alkotója eltérő lehet; ellenőrizd az egyes képek előnézetében a forrásoldalt és a licencet, mielőtt felhasználnád őket. A **Eredeti kép** hivatkozás megnyitja a forrás nagy felbontású fájlját.
 
 ## Kiemelt képek bővítése
 
